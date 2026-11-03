@@ -1,0 +1,30 @@
+{
+  "name": "bilinc",
+  "displayName": "Bilinc",
+  "version": "0.1.0",
+  "description": "A shared memory for your AI agents. Cursor, Claude, ChatGPT and Codex read and write the same facts; every change is dated, shows which agent wrote it, and can be undone.",
+  "author": {
+    "name": "ReARC Labs",
+    "email": "atakan@rearclabs.com",
+    "url": "https://bilinc.space"
+  },
+  "homepage": "https://bilinc.space",
+  "repository": "https://github.com/ReARCLabs/bilinc-cursor-plugin",
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "primaryColor": "#070b14",
+  "keywords": [
+    "bilinc",
+    "memory",
+    "agent-memory",
+    "shared-memory",
+    "context",
+    "knowledge-base",
+    "decisions",
+    "audit-trail",
+    "undo",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}
