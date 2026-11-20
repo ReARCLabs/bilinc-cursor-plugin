@@ -17,7 +17,7 @@ Your agent in Cursor forgets yesterday's decisions, and your other agents (Claud
 2. In Cursor's MCP settings, select **Login** next to `bilinc` and approve the connection in your browser. You choose read-only or read and write.
 3. Ask the agent something like "What did we decide about the billing migration?" or "Remember that we use pnpm in this repo."
 
-No account yet? The free plan has 2,000 operations a month and needs no card: https://bilinc.space
+No account yet? The free plan has 2,000 operations a month and needs no card: https://bilinc.space/?utm_source=github&utm_medium=readme&utm_campaign=bilinc-cursor-plugin
 
 ## What the agent can do
 
